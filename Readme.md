@@ -1,6 +1,6 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) 
+# Render Wysiwyg :rocket:
 
-# Render Wysiwyg :rocket
+# Stack: [![Tech Stack](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg)
 
 ## Usage
 You can easily incorporate the RenderWysiwyg component into your React projects by following these simple steps:
