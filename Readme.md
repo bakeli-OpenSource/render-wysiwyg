@@ -33,7 +33,7 @@ const MyComponent: React.FC = () => {
 export default MyComponent;
 ```
 
-## Security Note
+## Security Note :lock:
 The RenderWysiwyg component uses DOMPurify to sanitize the HTML content before rendering it. This helps prevent XSS (Cross-Site Scripting) attacks by removing potentially harmful elements and attributes from the content.
 
 However, it's important to note that no sanitization method is foolproof, and it's always a good practice to validate and sanitize user-generated content on the server-side as well.
