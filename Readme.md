@@ -1,6 +1,6 @@
 # Render Wysiwyg :rocket:
 
-It allows you to render any Wysiwyg text
+It allows you to render any Wysiwyg text in React
 
 ### Installation
 ```bash
