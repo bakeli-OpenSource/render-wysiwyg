@@ -1,11 +1,8 @@
 # Render Wysiwyg :rocket:
 
-# Stack: [![Tech Stack](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg)
+It allows you to render any Wysiwyg text
 
-## Usage
-You can easily incorporate the RenderWysiwyg component into your React projects by following these simple steps:
-
-### Install the Package
+### Installation
 ```bash
 npm install render-wysiwyg
 ```
@@ -14,10 +11,10 @@ or
 yarn add render-wysiwyg
 ```
 
-## Exemple
-```html
-import React from 'react';
-import RenderWysiwyg from 'render-wysiwyg';
+## Example
+```jsx
+import React from "react";
+import RenderWysiwyg from "render-wysiwyg";
 
 const MyComponent: React.FC = () => {
   const content = "<p>This is some <b>HTML</b> content.</p>";
@@ -40,4 +37,4 @@ However, it's important to note that no sanitization method is foolproof, and it
 
 ## Authors
 
-    RED Team
+    Bakeli School Of Technology (RED Team)
